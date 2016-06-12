@@ -1,3 +1,12 @@
+Paragraph
+=========
+
+After freetime-founding the coala analyzer OS project with almost 100
+contributors, Lasse mentored 4 GSoC students and administers ~30 mentors
+solely this year. He also forges high quality software and conducts talks
+and workshops for his clients/at conferences around the world and founds
+GitMate.
+
 Abstract
 ========
 
