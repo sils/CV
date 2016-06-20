@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Lasse Schuirmann",
+    "label": "Software Developer",
+    "picture": "http://www.gravatar.com/avatar/ea9b9ed83df6acc43cc4ea26b0447ea7?s=400&r=pg&d=mm",
+    "email": "lasse.schuirmann@gmail.com",
+    "phone": "+49 1578 0442029",
+    "website": "http://schuirmann.net/",
+    "summary": "Lasse Schuirmann is a freelance software developer who cares passionately about open source, collaboratively developed software. After he was awarded the Google Summer of Code sholarship, he began mentoring several students while administering the GSoC program for the GNOME organization. Currently he spends most of his time maintaining and developing his open source project coala to help developers improving their code quality without hassle. The coala project group has almost 100 contributors and is present at conferences all around the world.\n\nIn his spare time, Lasse forges high quality (mostly python) software and conducts workshops for clients of his company Viper Development (viperdev.io), pursues a master degree in Computer Science, develops GitMate (gitmate.io), a hand crafted piece of software that supports developers during their whole workflow, and talks and performs workshops at conferences around the globe.",
+    "location": {
+      "address": "Heimfelder Strasse 29",
+      "postalCode": "21075",
+      "city": "Hamburg",
+      "countryCode": "DE",
+      "region": "Germany"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "GitHub: sils1297",
+        "url": "https://github.com/sils1297/"
+      },
+      {
+        "network": "",
+        "username": "GitLab: sils",
+        "url": "https://gitlab.com/u/sils"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Prosystem AG",
+      "position": "Software Developer",
+      "website": "http://www.prosystem-ag.com/",
+      "startDate": "2009-08-01",
+      "endDate": "2010-04-31",
+      "highlights": []
+    },
+    {
+      "company": "Draeger Medical GmbH",
+      "position": "Integrated Degree Student",
+      "website": "http://www.draeger.com/",
+      "startDate": "2012-08-01",
+      "endDate": "2016-01-31",
+      "highlights": []
+    },
+    {
+        "company": "Viper Development",
+        "position": "Founder",
+        "website": "http://viperdev.io/",
+        "startDate": "2015-12-01",
+        "summary": "Viper Development offers custom forged software, consulting and workshops around open source software."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "coala",
+      "position": "Founder and Maintainer, GSoC Mentor and Admin",
+      "website": "http://coala-analyzer.org/",
+      "startDate": "2013-01-01",
+      "summary": "coala provides a common command-line interface for linting and fixing all your code, regardless of the programming languages you use."
+    },
+    {
+      "organization": "GNOME",
+      "position": "Contributor, GSoC Mentor and Admin",
+      "website": "https://www.gnome.org/",
+      "startDate": "2014-02-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Albert Schweitzer Gymnasium",
+      "area": "General Certificate of Education",
+      "studyType": "",
+      "startDate": "2006-08-01",
+      "endDate": "2012-08-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Hamburg University of Technology",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012-10-01",
+      "endDate": "2015-11-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Hamburg University of Technology",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2015-11-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Second Place and Two Special Awards",
+      "date": "2009-03-01",
+      "awarder": "Jugend Forscht",
+      "summary": "As the youngest participant of the city wide level of Jugend Forscht."
+    },
+    {
+      "title": "Special Award for the Best Interdisciplinary Work",
+      "date": "2011-04-01",
+      "awarder": "Jugend Forscht",
+      "summary": ""
+    },
+    {
+      "title": "Delegate of the city Hamburg",
+      "date": "2011-08-01",
+      "awarder": "International Mathematical Tournament of Towns",
+      "summary": ""
+    },
+    {
+      "title": "Google Summer of Code Stipend",
+      "date": "2014-03-01",
+      "awarder": "Google Inc./GNOME",
+      "summary": "For the project 'Boxes - Hardening sprint, express installation improvements & ISO download'."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Workshops/Talks",
+      "level": "",
+      "keywords": [
+        "FOSDEM",
+        "openSUSE Conference",
+        "GUADEC",
+        "LinuxWochen",
+        "For Clients"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Continuous Integration",
+        "Code Quality"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Singing",
+      "keywords": [
+        "Baritone",
+        "Piano",
+        "Violin",
+        "Guitar"
+      ]
+    },
+    {
+      "name": "Music (Various Instruments)"
+    },
+    {
+      "name": "Dancing"
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Dr. Christoph Ihl, Hamburg Technical University",
+      "reference": "Highly competent and efficient. Very smooth to work with."
+    }
+  ]
+}
