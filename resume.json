@@ -34,6 +34,7 @@
       "website": "http://www.prosystem-ag.com/",
       "startDate": "2009-08-01",
       "endDate": "2010-04-31",
+      "summary": "PROSYSTEM AG is a worldwide leading consulting- and service company in biomedical engineering.",
       "highlights": []
     },
     {
@@ -42,29 +43,43 @@
       "website": "http://www.draeger.com/",
       "startDate": "2012-08-01",
       "endDate": "2016-01-31",
+      "summary": "As an international leader in medical and safety technology, Dräger develops innovative equipment and solutions people the world over trust. No matter where Dräger products are used: it’s always about life. Whether for use in clinical, industrial or mining applications, in firefighting or rescue services, Dräger products protect, support and save lives.",
       "highlights": []
     },
     {
-        "company": "Viper Development",
-        "position": "Founder",
-        "website": "http://viperdev.io/",
-        "startDate": "2015-12-01",
-        "summary": "Viper Development offers custom forged software, consulting and workshops around open source software."
+      "company": "Viper Development",
+      "position": "Founder",
+      "website": "http://viperdev.io/",
+      "startDate": "2015-12-01",
+      "endDate": "",
+      "summary": "Viper Development offers custom forged software, consulting and workshops around open source software. Quality and maintainability are the core aspect of all actions.",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
       "organization": "coala",
-      "position": "Founder and Maintainer, GSoC Mentor and Admin",
+      "position": "Founder and Maintainer",
       "website": "http://coala-analyzer.org/",
       "startDate": "2013-01-01",
-      "summary": "coala provides a common command-line interface for linting and fixing all your code, regardless of the programming languages you use."
+      "endDate": "",
+      "summary": "coala is a simple COde AnaLysis Application. Its goal is to make static code analysis easy while remaining completely modular and therefore extendable and language independent.",
+      "highlights": [
+        "Mentor for the Google Summer of Code",
+        "Administrator for the Google Summer of Code"
+      ]
     },
     {
       "organization": "GNOME",
-      "position": "Contributor, GSoC Mentor and Admin",
+      "position": "",
       "website": "https://www.gnome.org/",
-      "startDate": "2014-02-01"
+      "startDate": "2014-02-01",
+      "endDate": "",
+      "summary": "GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.",
+      "highlights": [
+        "Mentor for the Google Summer of Code (2015 - now)",
+        "Administrator for the Google Summer of Code (2015 - now)"
+      ]
     }
   ],
   "education": [
