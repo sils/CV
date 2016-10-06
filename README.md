@@ -1,7 +1,7 @@
 Paragraph
 =========
 
-After freetime-founding the coala analyzer OS project with almost 100
+After freetime-founding the coala analyzer OS project with almost 200
 contributors, Lasse mentored 4 GSoC students and administers ~30 mentors
 solely this year. He also forges high quality software and conducts talks
 and workshops for his clients/at conferences around the world and founds
@@ -16,7 +16,7 @@ Summer of Code sholarship, he began mentoring several students while
 administering the GSoC program for the GNOME organization. Currently he spends
 most of his time maintaining and developing his open source project coala to
 help developers improving their code quality without hassle. The coala project
-group has almost 100 contributors and is present at conferences all around the
+group has almost 200 contributors and is present at conferences all around the
 world.
 
 In his spare time, Lasse forges high quality (mostly python) software and
