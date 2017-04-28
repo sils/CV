@@ -12,7 +12,7 @@ Abstract
 
 Lasse Schuirmann is a freelance software developer who cares passionately about
 open source, collaboratively developed software. After he was awarded the Google
-Summer of Code sholarship, he began mentoring several students while
+Summer of Code sholarship, he began menasdtoring several students while
 administering the GSoC program for the GNOME organization. Currently he spends
 most of his time maintaining and developing his open source project coala to
 help developers improving their code quality without hassle. The coala project
