@@ -1,4 +1,9 @@
 [all]
 bears = JSONFormatBear
-indent_size = 5
-files = **.json
+indent_size = 2
+files = **.json 
+
+[whitespace]
+bears = SpaceConsistencyBear
+use_spaces = True 
+files = **.json, .coafile
