@@ -5,7 +5,7 @@
 |lasse.schuirmann@gmail.com|+49 1578 0442029|http://schuirmann.net/|
   
 # About
-
+ 
 
 After freetime-founding the coala analyzer OS project with almost 100
 contributors, Lasse mentored 4 GSoC students and administers ~30 mentors
