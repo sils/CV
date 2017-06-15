@@ -6,6 +6,7 @@
 
 # About
 
+
 After freetime-founding the coala analyzer OS project with almost 100
 contributors, Lasse mentored 4 GSoC students and administers ~30 mentors
 solely in 2016. He also forges high quality software and conducts talks
