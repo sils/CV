@@ -6,9 +6,9 @@
     "email": "lasse.schuirmann@gmail.com",
     "phone": "+49 1578 0442029",
     "website": "http://schuirmann.net/",
-    "summary": "Lasse Schuirmann is a freelance software developer who cares passionately about open source, collaboratively developed software. After he was awarded the Google Summer of Code sholarship, he began mentoring several students while administering the GSoC program for the GNOME organization. Currently he spends most of his time maintaining and developing his open source project coala to help developers improving their code quality without hassle. The coala project group has almost 100 contributors and is present at conferences all around the world.\n\nIn his spare time, Lasse forges high quality (mostly python) software and conducts workshops for clients of his company Viper Development (viperdev.io), pursues a master degree in Computer Science, develops GitMate (gitmate.io), a hand crafted piece of software that supports developers during their whole workflow, and talks and performs workshops at conferences around the globe.",
+    "summary": "Lasse Schuirmann is an entrepreneur who cares passionately about open source, collaboratively developed software. After he was awarded the Google Summer of Code sholarship, he began mentoring several students while administering the GSoC program for the GNOME organization. Currently he spends most of his time maintaining and developing his open source project coala.io to help developers improving their code quality without hassle. The coala project group has more than 500 contributors over the projet duration so far and is present at conferences all around the world.\n\nIn his spare time, Lasse forges high quality (mostly python) software and conducts workshops for clients of his company Viper Development (viperdev.io), develops GitMate (gitmate.io), a hand crafted piece of software that supports developers during their whole workflow, and talks and performs workshops at conferences around the globe.",
     "location": {
-      "address": "Heimfelder Strasse 29",
+      "address": "Haakestrasse 37",
       "postalCode": "21075",
       "city": "Hamburg",
       "countryCode": "DE",
@@ -23,7 +23,7 @@
       {
         "network": "",
         "username": "GitLab: sils",
-        "url": "https://gitlab.com/u/sils"
+        "url": "https://gitlab.com/sils"
       }
     ]
   },
@@ -47,23 +47,41 @@
       "highlights": []
     },
     {
-      "company": "Viper Development",
-      "position": "Founder",
-      "website": "http://viperdev.io/",
+      "company": "viperdev",
+      "position": "Freelancer",
+      "website": "http://osbusiness.viperdev.io/",
       "startDate": "2015-12-01",
+      "endDate": "2017-03-31",
+      "summary": "Viper Development offers custom software, consulting and workshops around open source software. Quality and maintainability are the core aspect of all actions.",
+      "highlights": []
+    },
+    {
+      "company": "GitMate UG",
+      "position": "Founder",
+      "website": "https://gitmate.io/",
+      "startDate": "2017-05-01",
       "endDate": "",
-      "summary": "Viper Development offers custom forged software, consulting and workshops around open source software. Quality and maintainability are the core aspect of all actions.",
+      "summary": "GitMate is a tool to improve workflows and reduce frustration for software developers.",
+      "highlights": []
+    },
+    {
+      "company": "Viper Development UG",
+      "position": "Founder",
+      "website": "https://viperdev.io/",
+      "startDate": "2017-05-01",
+      "endDate": "",
+      "summary": "Viper Development offers custom forged prototypes/MVPs/initial products with a focus on business goals.",
       "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "coala",
+      "organization": "coala Association e.V.i.G.",
       "position": "Founder and Maintainer",
-      "website": "http://coala-analyzer.org/",
+      "website": "https://coala.io/",
       "startDate": "2013-01-01",
       "endDate": "",
-      "summary": "coala is a simple COde AnaLysis Application. Its goal is to make static code analysis easy while remaining completely modular and therefore extendable and language independent.",
+      "summary": "coala provides a unified interface for linting and fixing code with a single configuration file, regardless of the programming languages used.",
       "highlights": [
         "Mentor for the Google Summer of Code",
         "Administrator for the Google Summer of Code"
@@ -74,11 +92,11 @@
       "position": "",
       "website": "https://www.gnome.org/",
       "startDate": "2014-02-01",
-      "endDate": "",
+      "endDate": "2016-10-01",
       "summary": "GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.",
       "highlights": [
-        "Mentor for the Google Summer of Code (2015 - now)",
-        "Administrator for the Google Summer of Code (2015 - now)"
+        "Mentor for the Google Summer of Code (since 2015)",
+        "Administrator for the Google Summer of Code (since 2015)"
       ]
     }
   ],
@@ -140,12 +158,14 @@
   "skills": [
     {
       "name": "Workshops/Talks",
-      "level": "",
+      "level": "Speaker/Invited Speaker/Keynote Speaker",
       "keywords": [
         "FOSDEM",
         "openSUSE Conference",
         "GUADEC",
         "LinuxWochen",
+        "EuroPython",
+        "PyCon ZA",
         "For Clients"
       ]
     },
@@ -155,7 +175,8 @@
       "keywords": [
         "Python",
         "Continuous Integration",
-        "Code Quality"
+        "Code Quality",
+        "Docker"
       ]
     }
   ],
