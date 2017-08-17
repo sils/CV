@@ -1,0 +1,14 @@
+[all]  
+bears = JSONFormatBear
+indent_size = 2
+files = **.json 
+
+[whitespace]
+bears = SpaceConsistencyBear
+use_spaces = True 
+files = **.json, .coafile
+
+[length]
+bears = LineLengthBear
+max_line_length = 20
+files = .coafile
