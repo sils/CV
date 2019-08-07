@@ -1,11 +1,9 @@
 Paragraph
 =========
 
-After freetime-founding the coala analyzer OS project with more than 500
-contributors, Lasse mentored 5 GSoC students and administered >40 mentors
-in various open source projects. He also forges high quality software and
-conducts talks and workshops for his clients/at conferences around the world
-while founding his startup GitMate.io to improve software developer tooling.
+After founding the coala Open Source project with more than a thousand contributors, Lasse founded several startups and a nonprofit, getting his first entrepreneurial expertise.
+
+With VIPERdev.io he is truly becoming a serial entrepreneur: the company gets innovative digital products for their clients to the market within 8 weeks each.
 
 Abstract
 ========
