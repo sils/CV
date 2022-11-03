@@ -1,9 +1,11 @@
 Paragraph
 =========
 
-After founding the coala Open Source project with more than a thousand contributors, Lasse founded several startups and a nonprofit, getting his first entrepreneurial expertise.
+Lasse is a purpose driven serial entrepreneur.
 
-With VIPERdev.io he is truly becoming a serial entrepreneur: the company gets innovative digital products for their clients to the market within 8 weeks each.
+While pursuing his purpose of improving the lives of millions of people in a significant and positive way he founded several companies such as FounderBlocks.io or Hofly.de.
+
+While Hofly helps transforming the way we create food to a more sustainable way, the vision of FounderBlocks is to create more meaningful startups which are actually purpose oriented rather than just money-machines.
 
 Abstract
 ========
